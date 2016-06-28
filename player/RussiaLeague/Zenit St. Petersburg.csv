@@ -1,0 +1,29 @@
+player_number,flag,name,age,position,tall,weight,full_time,half_time,mins,goals,asists,yel,red,spg,ps_x,motm,aw,rating,tackles,inter,fouls,offsides,clear,drb,blocks,owng,keyp,fouled,off,disp,unstch,avgp,ps_y,crosses,longb,thrb,team_name,league
+16886,br,Hulk,29," AM(LR),FW",180,80,26,1,2342,17,16,8,0.0,4.6,73.3,10,0.2,8.06,1,0.3,1.7,0,0.1,0.4,0,0,2.6,2.9,0.1,3.3,2.7,2.6,33.9,73.3,2.1,2.1,Zenit St. Petersburg,RussiaLeague
+32039,ru,Oleg Shatov,25, M(CLR),173,73,25,2,2187,8,6,2,0.0,1.9,80.5,2,0.4,7.30,1.7,0.9,1,0,0.1,0.5,0,0,1.8,1.2,0.4,1.6,1.1,1.8,45,80.5,0.6,2.4,Zenit St. Petersburg,RussiaLeague
+23246,ru,Artem Dzyuba,27, FW,196,91,30,0,2577,15,5,2,0.0,1.8,66.4,1,2.5,7.28,0.3,0.2,2.4,0,1.1,0.2,0.1,0,1.6,1.7,0.6,2.1,2,1.6,21.7,66.4,0,0.3,Zenit St. Petersburg,RussiaLeague
+70953,pt,Luís Neto,28, D(C),187,71,23,0,1950,0,0,10,0.0,0,89.7,1,1,7.10,1.7,3.8,1,0.8,4,0.5,0.5,0,0.1,1.2,0,0.1,0.2,0.1,48.7,89.7,0,4.2,Zenit St. Petersburg,RussiaLeague
+19278,ru,Mikhail Kerzhakov,29, GK,189,84,3,0,270,0,0,0,0.0,0,58.2,0,0.3,7.09,0,0.3,0,0,0.7,0,0,0,0,0,0,0,0,0,22.3,58.2,0,4.3,Zenit St. Petersburg,RussiaLeague
+19582,be,Nicolas Lombaerts,31, D(C),188,83,18,0,1620,0,1,1,0.0,0.2,84.7,1,2.1,7.01,1.8,3.4,1.1,1.3,3.4,0.4,1.1,2,0.3,0.5,0,0.2,0.2,0.3,46.1,84.7,0,5,Zenit St. Petersburg,RussiaLeague
+13895,it,Domenico Criscito,29, D(L),183,75,17,6,1528,1,0,5,0.0,0.7,80.3,1,1.1,6.93,2.4,2.3,1,0.6,2,0.5,0.1,0.0,0.3,0.9,0,0.3,0.4,0.3,37.1,80.3,0.3,2.6,Zenit St. Petersburg,RussiaLeague
+14079,ar,Ezequiel Garay,29, D(C),188,80,19,1,1706,2,1,1,0.0,0.8,87.7,0,1.6,6.92,1.2,2.6,0.7,1.3,3.1,0.5,0.2,0,0.3,0.6,0,0.1,0.3,0.3,51.3,87.7,0.2,4.8,Zenit St. Petersburg,RussiaLeague
+25191,be,Axel Witsel,27, M(C),186,73,28,1,2470,3,1,4,0.0,1.7,89.1,0,1.8,6.91,1.4,1.5,2.1,0,0.5,0.6,0.1,0,0.8,1.8,0,1.1,0.9,0.8,52.1,89.1,0,2.7,Zenit St. Petersburg,RussiaLeague
+12378,es,Javi García,29," D(C),DMC",186,82,21,5,1912,2,0,7,0.0,0.5,87.9,0,2.2,6.89,1.2,2.3,1.5,0,1.8,0.7,0,0,0.2,1,0,0.4,0.4,0.2,39.9,87.9,0,2.5,Zenit St. Petersburg,RussiaLeague
+7116,ru,Alexander Anyukov,33, D(LR),178,67,12,3,1067,0,0,0,0.0,0.2,82.6,0,1.3,6.87,1.9,2.5,0.4,0.4,2.3,0.4,0.2,0.0,0.3,1.1,0.1,0.5,0.4,0.3,31.3,82.6,0.2,1.7,Zenit St. Petersburg,RussiaLeague
+22755,pt,Danny,32, AM(CL),178,70,18,5,1581,6,4,3,0.0,1.8,79.1,0,0.2,6.87,0.3,0.5,0.7,0,0.1,0.3,0,0,1.4,1,0.3,1.2,1.4,1.4,49.3,79.1,0.3,3,Zenit St. Petersburg,RussiaLeague
+7252,ru,Yuri Zhirkov,32," D(L),M(CL)",180,75,7,2,616,0,0,2,0.0,0.2,72.6,0,1.1,6.83,1.3,2.8,0.8,0.4,1.3,0.1,0.3,0,0.3,1.1,0,0.6,0.4,0.3,32.4,72.6,0.3,2.2,Zenit St. Petersburg,RussiaLeague
+36375,br,Mauricio,27, M(C),180,74,8,3,725,1,1,1,0.0,1.5,87.9,0,0.8,6.80,0.8,1.3,1.5,0,0.3,0.5,0.1,0,0.6,1.7,0.1,0.6,0.9,0.6,46.6,87.9,0.3,2.6,Zenit St. Petersburg,RussiaLeague
+26765,ru,Igor Smolnikov,27, D(LR),178,70,23,3,2050,3,1,4,0.0,0.8,86.6,0,0.3,6.79,0.9,1.1,0.6,0.1,1.3,0.2,0.3,0,0.7,1.8,0.1,0.5,0.8,0.7,39.2,86.6,0.6,1.7,Zenit St. Petersburg,RussiaLeague
+70685,ru,Artur Yusupov,26, M(C),180,73,19,4,1467,0,1,6,0.0,0.4,87.6,0,0.5,6.69,2.3,1,1.6,0,0.3,0.7,0.1,0.0,0.6,0.6,0,0.6,0.9,0.6,43,87.6,0.3,2.9,Zenit St. Petersburg,RussiaLeague
+29232,ru,Viktor Faizulin,30, M(C),176,72,1,4,172,0,1,0,0.0,0.6,86.8,0,0.2,6.64,2.2,0.8,0.6,0,0.2,0,0,0.0,0.2,0.2,0,0.8,0.2,0.2,25.8,86.8,0,2,Zenit St. Petersburg,RussiaLeague
+68671,ru,Aleksandr Kokorin,25," AM(CR),FW",181,74,3,7,340,2,0,2,0.0,0.7,76.7,0,0.8,6.59,0.7,0.3,0.7,0,0.3,0.1,0,0,0.5,1,0.2,0.2,1,0.5,13.3,76.7,0.3,0.2,Zenit St. Petersburg,RussiaLeague
+84828,ru,Yuri Lodygin,26, GK,187,82,27,0,2430,0,0,2,0.0,0,59.7,0,0.5,6.53,0,0,0,0,1.2,0,0,0,0,0.3,0,0,0.1,0,25.5,59.7,0,7.6,Zenit St. Petersburg,RussiaLeague
+317938,ru,Yuri Bavin,22, Midfielder,0,0,0,1,25,0,0,0,0.0,2,89.5,0,0,6.52,1,1,1,0,0,0,0,0,0,0,0,0,0,0,19,89.5,0,2,Zenit St. Petersburg,RussiaLeague
+297202,ru,Dmitri Bogaev,22, Forward,175,64,2,3,205,0,0,0,0.0,0,81.7,0,0.2,6.47,1,1,0.8,0.2,0.6,0.4,0,0,0,0.2,0,0.4,1.2,0,24,81.7,0.4,1.2,Zenit St. Petersburg,RussiaLeague
+26106,ru,Aleksandr Ryazantsev,29, M(CLR),182,75,1,10,275,0,2,0,0.0,0.6,79.1,0,0.3,6.34,0.4,0.4,0.5,0,0,0.4,0,0,0.7,0.1,0,0.5,0.5,0.7,11.7,79.1,0.5,0.5,Zenit St. Petersburg,RussiaLeague
+111941,ru,Maxim Palienko,21, Midfielder,177,67,0,2,18,0,0,0,0.0,0,100,0,0,6.31,0,0,0.5,0,0.5,0,0,0,0,1,0,0,0,0,5.5,100,0,0,Zenit St. Petersburg,RussiaLeague
+295933,ru,Denis Tkachuk,26, AM(L),176,68,0,7,80,0,0,0,0.0,0.3,88.2,0,0,6.12,0.1,0,0.1,0,0.1,0,0,0,0.1,0.4,0.4,0.3,0,0.1,4.9,88.2,0.4,0.3,Zenit St. Petersburg,RussiaLeague
+146646,ru,Pavel Dolgov,19, Forward,187,74,0,8,45,0,0,0,0.0,0,77.8,0,0,6.07,0.1,0.1,0.3,0,0,0.3,0,0,0,0,0,0.1,0.5,0,1.1,77.8,0,0,Zenit St. Petersburg,RussiaLeague
+119678,ru,Andrey Ivanov,21, Defender,183,72,0,1,1,0,0,0,0.0,0,100,0,0,6.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,100,0,1,Zenit St. Petersburg,RussiaLeague
+25964,ve,Salomón Rondón,26, FW,189,85,0,1,8,0,0,0,0.0,0,100,0,0,5.97,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,100,0,0,Zenit St. Petersburg,RussiaLeague
+115024,ru,Aleksey Evseev,22, Midfielder,183,73,0,5,28,0,0,0,1,0.2,83.3,0,0,5.84,0,0,0.2,0,0,0,0,0,0,0.2,0,0,0,0,2.4,83.3,0,0,Zenit St. Petersburg,RussiaLeague

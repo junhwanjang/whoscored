@@ -1,0 +1,26 @@
+player_number,flag,name,age,position,tall,weight,full_time,half_time,mins,goals,asists,yel,red,spg,ps_x,motm,aw,rating,tackles,inter,fouls,offsides,clear,drb,blocks,owng,keyp,fouled,off,disp,unstch,avgp,ps_y,crosses,longb,thrb,team_name,league
+69386,fr,Yohan Mollo,26," M(LR),FW",175,80,22,1,1983,0.0,6,1,1,1.8,74.9,2,0.9,7.21,0.7,0.7,1.8,0,0.1,0.1,0,0,2.9,3.4,0.2,2.9,2.3,2.9,37.9,74.9,3.1,2.7,Krylya Sovetov Samara,RussiaLeague
+120349,ru,Miroslav Lobantsev,21, Goalkeeper,189,80,0,1,62,0.0,0,0,0,0,53.8,0,0,7.14,0,0,0,0,1,0,0,0,0,1,0,0,0,0,13,53.8,0,5,Krylya Sovetov Samara,RussiaLeague
+18320,ru,Ivan Taranov,29," D(C),DMC",185,74,26,0,2293,1,1,6,0,0.5,74.2,1,2.1,7.05,2,3.6,0.8,0.5,5,1,0.6,0.0,0.2,0.2,0,0.1,0.3,0.2,36.6,74.2,0,4.9,Krylya Sovetov Samara,RussiaLeague
+37420,ru,Taras Burlak,26, D(C),187,78,28,0,2513,0,1,4,0,0.6,74.1,3,1.5,6.98,1.4,3.4,0.6,0.7,5,0.7,0.4,0.0,0.3,0.2,0,0,0.1,0.3,38.4,74.1,0.1,5.6,Krylya Sovetov Samara,RussiaLeague
+44527,ge,Giorgi Loria,30, GK,195,82,14,0,1260,0,0,1,0,0,52.4,1,0.4,6.96,0.1,0.1,0.1,0,0.6,0.1,0,0,0,0.1,0,0,0,0,21.1,52.4,0,6.6,Krylya Sovetov Samara,RussiaLeague
+143425,ru,Aleksey Pomerko,26, M(C),183,80,27,0,2379,0,0,6,0,0.8,83.3,1,1.4,6.86,2.5,2.6,1.6,0.0,0.7,0.9,0.6,0.0,0.7,0.8,0,0.5,0.7,0.7,43.1,83.3,0.1,2.6,Krylya Sovetov Samara,RussiaLeague
+84625,ru,Ibrahim Tsallagov,25, D(LR),177,71,30,0,2700,1,1,3,0,0.4,70.1,1,0.9,6.84,2.3,2.4,1,0.1,1.2,0.8,0.3,0.0,0.7,1.9,0,1.4,1.5,0.7,38.7,70.1,0.5,2.7,Krylya Sovetov Samara,RussiaLeague
+39845,by,Stanislav Dragun,28, M(C),188,76,12,2,999,2,0,0,0,1.6,78.8,1,1.8,6.83,1.7,1.1,0.6,0,0.8,1.5,0.1,0.0,0.9,2.1,0,0.5,1,0.9,30.7,78.8,0.1,1.7,Krylya Sovetov Samara,RussiaLeague
+64631,ru,Georgiy Gabulov,27, AM(C),188,74,21,1,1865,4,1,1,0,2.2,72.8,2,1,6.80,1.4,1.8,1.5,0,0.5,1.4,0.1,0.0,1,1.1,0.2,1.2,1.5,1,36.2,72.8,0.9,2.5,Krylya Sovetov Samara,RussiaLeague
+44353,br,Nadson,31, D(C),190,81,24,1,2161,0,0,2,0,0.2,85.2,0,0.8,6.78,1.2,2.6,0.4,0.7,5.2,0.4,0.5,1,0.1,0.2,0,0.1,0.2,0.1,25.7,85.2,0,2.2,Krylya Sovetov Samara,RussiaLeague
+20116,by,Sergei Kornilenko,33, FW,185,78,12,4,1107,4,2,0,0,1.8,63.9,0,2.5,6.75,0.4,0.2,1.4,0.1,1,0.3,0.1,0,0.6,1.8,0.7,0.8,0.9,0.6,18.2,63.9,0.1,0.4,Krylya Sovetov Samara,RussiaLeague
+144682,ru,Evgeni Konyukhov,29, GK,188,85,16,0,1378,0,0,1,0,0,51.4,0,0.4,6.74,0.1,0,0,0,1.2,0,0,0,0,0.2,0,0,0,0,22.5,51.4,0,7.4,Krylya Sovetov Samara,RussiaLeague
+14049,be,Jeroen Simaeys,31," D(C),DMC",193,80,13,10,1286,0,0,3,0,0.5,73.3,0,1.3,6.66,2.3,2.1,1.3,0,1.5,0.6,0.3,0.0,0.2,0.4,0.1,0.2,0.3,0.2,19.2,73.3,0,1.3,Krylya Sovetov Samara,RussiaLeague
+120426,ru,Aleksej Kontsedalov,25, D(C),186,75,11,2,962,0,0,0,0,0.1,76.8,0,0.9,6.55,1.3,1.8,0.7,0.6,3,0.3,0.8,0.0,0,0.4,0,0.2,0.4,0,25.5,76.8,0.1,2.4,Krylya Sovetov Samara,RussiaLeague
+84875,rs,Milan Rodic,25, D(L),185,75,10,6,870,1,0,3,0,0.7,64.7,0,1.5,6.50,1,1.3,0.9,0.1,0.8,0.4,0.2,0,0.4,0.6,0.1,0.4,0.9,0.4,19.5,64.7,0.5,1.3,Krylya Sovetov Samara,RussiaLeague
+103973,mk,Adis Jahovic,29, FW,190,85,12,4,1102,3,1,3,0,2.1,70.8,0,1.6,6.48,0.3,0.4,1.3,0,0.4,0.1,0.1,0,0.9,1.4,0.8,1.8,2.4,0.9,17.8,70.8,0.1,0.6,Krylya Sovetov Samara,RussiaLeague
+143591,ru,Alan Chochiev,24, Forward,180,70,12,7,1011,0,1,1,0,0.9,71.8,0,0.4,6.40,1.2,0.5,0.8,0,0.2,0.5,0.2,0,0.8,1.4,0.6,0.9,1.4,0.8,22.8,71.8,0.6,1.6,Krylya Sovetov Samara,RussiaLeague
+120555,tt,Sheldon Bateau,25, D(R),186,85,9,9,860,0,1,1,0,0.1,64.9,0,1.2,6.40,1.3,1,0.4,0.1,1,0.3,0.1,0.0,0.3,0.4,0,0.4,0.3,0.3,18.8,64.9,0.1,1.7,Krylya Sovetov Samara,RussiaLeague
+89927,be,Gianni Bruno,24," AM(R),FW",180,74,8,3,721,2,0,0,0,1.5,73.5,0,0.5,6.33,0.2,0.3,1.5,0,0.3,0,0,0,0.7,0.8,0.6,1.2,1,0.7,19.9,73.5,0.2,1,Krylya Sovetov Samara,RussiaLeague
+32539,ru,Dmitriy Yatchenko,29, D(LR),170,70,12,6,1086,0,0,2,0,0.3,72.8,0,0.5,6.25,0.6,0.9,0.8,0.2,0.6,0.2,0.1,0,0.1,0.6,0.3,0.1,0.4,0.1,22.5,72.8,0.2,1.5,Krylya Sovetov Samara,RussiaLeague
+25507,fi,Berat Sadik,29, FW,192,90,4,7,386,0,1,1,0,0.9,62.5,0,1.3,6.24,0.3,0,0.8,0,0.4,0,0,0,0.5,0.4,0.4,0.5,1.1,0.5,9.5,62.5,0,0.2,Krylya Sovetov Samara,RussiaLeague
+75823,ru,Pavel Yakovlev,25, M(LR),180,72,6,6,572,1,0,1,0,0.8,63.6,0,0.6,6.11,0.5,0.3,0.8,0,0,0.1,0,0,0.1,0.6,0.3,1,1.2,0.1,13.5,63.6,0,0.7,Krylya Sovetov Samara,RussiaLeague
+70531,ru,Igor Gorbatenko,27, Midfielder,171,65,1,7,152,0,0,1,0,0.1,78.8,0,0.4,6.07,0.3,0.1,0.4,0,0,0.3,0,0,0.3,0.4,0.1,0.6,0.1,0.3,6.5,78.8,0.3,0.6,Krylya Sovetov Samara,RussiaLeague
+76777,ru,Emin Makhmudov,24, M(C),175,70,0,1,1,0,0,0,0,0,0,0,0,6.00,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Krylya Sovetov Samara,RussiaLeague
+296212,ru,Ilya Viznovich,18, Forward,182,75,0,1,3,0,0,0,0,0,0,0,0,6.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Krylya Sovetov Samara,RussiaLeague

@@ -1,0 +1,27 @@
+player_number,flag,name,age,position,tall,weight,full_time,half_time,mins,goals,asists,yel,red,spg,ps_x,motm,aw,rating,tackles,inter,fouls,offsides,clear,drb,blocks,owng,keyp,fouled,off,disp,unstch,avgp,ps_y,crosses,longb,thrb,team_name,league
+11596,sk,Jan Durica,34, D(C),188,86,13,0.0,1170,1,0.0,2,0.0,0.3,79.6,2,3.3,7.46,2.1,4.2,1,0.6,5.5,0.2,0.3,1,0,1.2,0.1,0.3,0.1,0,51.7,79.6,0,5.5,Lokomotiv Moscow,RussiaLeague
+278156,ru,Dimitri Barinov,19, Midfielder,179,72,2,0.0,160,0,1,1,0.0,1.5,78.3,0,1.5,7.31,2,2.5,2.5,0,1,1,0,0,1.5,0,0,1.5,0,1.5,41.5,78.3,0,2,Lokomotiv Moscow,RussiaLeague
+111141,sn,Oumar Niasse,26, FW,182,82,13,2,1166,8,6,2,0.0,3.6,72.3,2,1.7,7.29,0.8,0.3,2.1,0,0.1,0.3,0.1,0,1.3,2.1,0.9,2.7,3.5,1.3,18.8,72.3,0.2,0.2,Lokomotiv Moscow,RussiaLeague
+7181,ru,Aleksandr Samedov,31, AM(R),177,75,28,0,2520,9,6,4,0.0,1.8,79.3,4,0.6,7.27,1.4,0.7,0.9,0,0.3,0.5,0.1,0,2.4,1.4,0.5,1.2,1.4,2.4,38,79.3,1.9,1.3,Lokomotiv Moscow,RussiaLeague
+39716,uz,Vitaliy Denisov,29, D(L),178,75,29,0,2510,0,1,5,0.0,0.7,80.4,0,1.6,7.25,2.9,4,1.1,0.3,2,0.7,0.1,0.0,0.9,1.8,0,0.4,0.7,0.9,47.7,80.4,0.4,3.3,Lokomotiv Moscow,RussiaLeague
+69171,rs,Nemanja Pejcinovic,28, D(CR),185,81,21,0,1843,1,3,4,0.0,0.6,83.1,0,1.5,7.09,1,2.2,0.8,0.3,4.8,0.3,0.5,0,0.3,0.9,0,0.3,0.5,0.3,42.7,83.1,0.2,4.9,Lokomotiv Moscow,RussiaLeague
+22040,hr,Vedran Corluka,30, D(C),192,84,23,1,2082,3,0,4,1,0.3,83.1,3,2.1,7.04,1,2.8,0.6,0.6,3.6,0.3,0.7,0,0.2,0.5,0.1,0.1,0.3,0.2,46.9,83.1,0,7,Lokomotiv Moscow,RussiaLeague
+22181,ru,Roman Shishkin,29," D(R),DMC",176,73,19,0,1710,0,3,2,0,0.5,85.3,0,1.9,6.99,1.4,2.4,1.3,0.1,2.9,0.7,0.2,1,1.1,0.7,0.2,0.3,0.9,1.1,42.7,85.3,1.2,2.2,Lokomotiv Moscow,RussiaLeague
+27932,ru,Dmitriy Tarasov,29, DMC,188,73,20,3,1581,0,1,3,0,1.1,79.5,0,2,6.91,2.8,2,2,0,1.1,0.9,0.2,0.0,0.3,1.7,0,1.2,0.6,0.3,43.7,79.5,0,3,Lokomotiv Moscow,RussiaLeague
+303498,ru,Rifat Zhemaletdinov,19, Forward,182,0,3,2,305,2,0,0,0,3,82.8,2,0.2,6.76,1.4,0.6,1.6,0,0,0.4,0,0,1.2,1.8,0.2,1.8,1.4,1.2,18.6,82.8,0,0.2,Lokomotiv Moscow,RussiaLeague
+64686,ru,Aleksandr Kolomejtsev,27," M(CL),FW",183,78,25,3,2207,3,3,2,0,0.5,81,0,1.1,6.75,1.1,1.4,0.8,0,0.9,0.5,0,0,0.8,1.1,0.1,1,1.3,0.8,33.4,81,0.1,2.4,Lokomotiv Moscow,RussiaLeague
+28600,ru,Alan Kasaev,30, AM(L),174,76,21,3,1768,3,2,2,0,1.5,76.1,2,0.2,6.75,0.9,0.4,1.3,0,0.2,0.3,0,0,1.4,2,0.2,1.6,1.8,1.4,22.3,76.1,1.3,1,Lokomotiv Moscow,RussiaLeague
+20900,ua,Taras Mykhalyk,32," D(C),M(C)",184,83,16,5,1435,0,1,3,0,0.5,83.7,0,1.5,6.73,1.1,3,1,0.2,2,0.3,0.5,0,0,1.1,0,0.2,0.2,0,36.8,83.7,0,3.6,Lokomotiv Moscow,RussiaLeague
+58610,ru,Guilherme Alvim Marinato,30, GK,197,78,30,0,2700,0,0,3,0,0,57.1,2,0.5,6.64,0,0,0,0,0.9,0,0,0,0,0.2,0,0,0.1,0,23.1,57.1,0,6.6,Lokomotiv Moscow,RussiaLeague
+248017,rs,Petar Skuletic,25, FW,193,90,12,6,946,6,0,1,0,1.9,63.7,0,1.3,6.63,0.3,0.2,1.1,0,0.3,0.3,0.1,0,0.4,1.5,0.4,1.1,1.8,0.4,9.3,63.7,0.1,0.1,Lokomotiv Moscow,RussiaLeague
+41039,br,Maicón,26, AM(L),182,77,3,11,450,3,1,3,0,1.1,73.9,0,0.8,6.55,0.9,0.4,1.6,0,0.1,0.2,0,0,0.6,1,0.4,0.5,0.4,0.6,11.2,73.9,0.4,0.6,Lokomotiv Moscow,RussiaLeague
+36675,cg,Delvin N'Dinga,28, M(C),180,70,15,9,1300,0,0,2,0,0.4,82.9,0,1,6.51,1.3,1.3,1.4,0.1,0.8,0.5,0.1,0,0.4,1,0,0.6,0.6,0.4,33.1,82.9,0,2.3,Lokomotiv Moscow,RussiaLeague
+129354,ru,Aleksey Miranchuk,20, AM(C),177,67,16,11,1726,2,1,2,1,1.4,79,0,0.8,6.49,0.9,0.6,1.1,0,0.2,0.4,0,0,0.7,1.3,0.3,1.7,1.5,0.7,26.4,79,0.1,1.6,Lokomotiv Moscow,RussiaLeague
+31299,ru,Vladislav Ignatjev,29, AM(LR),180,72,2,5,230,1,0,0,0,0.9,84.5,0,0.6,6.46,1,1.1,0.6,0,0.3,0.4,0,0,0.4,0.9,0,0.9,0.4,0.4,12,84.5,0,0.7,Lokomotiv Moscow,RussiaLeague
+12476,pt,Manuel Fernandes,30, M(C),176,75,2,2,172,0,0,0,0,2,85.2,0,0,6.45,0.8,0,0.5,0,0.3,0.3,0,0,1.5,1.3,0,1.5,2,1.5,32,85.2,1,2.8,Lokomotiv Moscow,RussiaLeague
+25578,ru,Renat Yanbayev,32, D(LR),178,71,6,4,546,0,0,2,0,0.1,80.1,0,0.6,6.42,0.5,1.4,0.4,0,1.1,0.3,0,0,0.3,0.7,0,0.2,0.2,0.3,26.7,80.1,0.5,0.5,Lokomotiv Moscow,RussiaLeague
+69797,ru,Maksim Grigoriev,25," AM(L),FW",187,75,1,4,139,0,0,0,0,0,65.4,0,0.8,6.33,1.4,0.4,0.6,0,0,0,0,0,0.6,1,0,0.8,0.2,0.6,10.4,65.4,0,0,Lokomotiv Moscow,RussiaLeague
+73855,ru,Arseni Logashov,24, D(R),183,68,4,4,442,0,0,3,0,0.1,79.6,0,1.1,6.31,1.3,2.4,1.1,0.4,1.4,0.1,0.1,0,0.1,1.4,0,0.3,0,0.1,30.6,79.6,0,2.9,Lokomotiv Moscow,RussiaLeague
+312995,ng,Ezekiel Henty,23, Forward,182,76,5,5,552,0,1,3,0,1.4,75.9,0,0.9,6.28,0.4,0.4,2.1,0,0.2,0.2,0,0,0.4,1.3,0.5,1.8,1.7,0.4,11.6,75.9,0,0.3,Lokomotiv Moscow,RussiaLeague
+10591,ma,Mbark Boussoufa,31, AM(C),167,61,1,0,46,0,0,0,0,0,77.3,0,0,6.21,3,0.0,2,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,22,77.3,0,2,Lokomotiv Moscow,RussiaLeague
+317780,ru,Georgy Makhatadze,18, Midfielder,180,69,0,1,2,0,0,0,0,0,100,0,0,5.98,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,100,0,0,Lokomotiv Moscow,RussiaLeague

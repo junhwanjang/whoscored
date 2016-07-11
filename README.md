@@ -1,2 +1,0 @@
-# whoscored
-player rating analysis

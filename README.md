@@ -1,5 +1,5 @@
 # Football player model
-- We created two models using game data in each league. Frist model we made is about player's rating. As using the model, it can predict their rating based on a single game data. Second model we created is that finding better position. The second model is based on about 2,500 players having a single position. Then, it will be used for helping other players having multi positions find their better position.
+- We created two models using game data in each league. Frist model is to check what factor is critical for player's rating. As using the model, it can predict their rating based on a single game data. Second model is that finding better position based on training data. The second model is based on about 2,500 players having a single position. Then, it will be used for helping other players having multi positions find their better position.
 - Parsed Website : www.whoscored.com
 - Sample data : Game data in 2015-2016 season
    - League : Bundesliga(Germany), LaLiga(Spain), EPL(UK), Ligue1(France), SerieA(Italy), Eredivise(Netherland), RPL(Russia)
